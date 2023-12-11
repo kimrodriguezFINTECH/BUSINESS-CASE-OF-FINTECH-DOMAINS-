@@ -10,19 +10,23 @@ JPM Coin, introduced in 2019, is a permissioned blockchain that serves as a paym
 Thus, in simple terms J.P. Morgan designed Onyx to facilitate instantaneous payments using block chain technology to enable round the clock, business to business money movement/commerce by using JPM Coin. In return this provides safe secure transfers around the world. 
 
 * Name of company 
+
 J.P. Morgan Chase & Corporation
 -ONYX by J.P.Morgan 
 -JPM Coin
 
 * When was the company incorporated?
+
 J.P. Morgan Chase & Corporation was incorprated on December 31, 2000.
 JPM Coin was introduced in 2019.
 ONYX unit was created in 2020.
 
 * Who are the founders of the company?
+
 J.P. Morgan & Co. was founded by J.P. Morgan who launched the House of Morgan on 23 Wall Street in 1871.
 
 * How did the idea for the company (or project) come about?
+
 J.P. Morgan is using blockchain for collateral settlemments which will allow investors to put down a wider range of assets as collateral and will be able to even use them outside of market operating hours. Since, JPM Coin functions as a source of value this will let transfers and settlements be available 24/7. 
 
 * How is the company funded? How much funding have they received?
@@ -30,7 +34,8 @@ J.P. Morgan is using blockchain for collateral settlemments which will allow inv
 It is predicted that JPM Coin could be handling as much as $10 billion in daily transactions within the next year or two, according to Umar Farooq, whom is head of the bank's Global Head of Financial Institution Payments. As of right now, JPMorgan's  digital token JPM Coin now handles $1 billion worth of transactions daily according to Global Head of Payments Takis Georgakopoulos. 
 
 ## Business Activities:
-* What specific financial problem is the company or project trying to solve?
+* What specific financial problem is the company or project trying to solve? 
+
 Transfer of assets can take hours or even days for a settlment depending on what financial transaction is being done. There are always constant frictions and risks as well. 
 
 Example 1: 
@@ -47,6 +52,7 @@ Company Intended Customers:
 4. Asset/ Wealth Management 
 
 Market Size of Set of Customers: ??????????
+
 Cryptocurrency/Coin Based Market 
 Market size value in 2023: USD 2,444.77 million
 Revenue forecast in 2032: USD 6,574.73 million
@@ -69,10 +75,53 @@ Clients can get same day liquidity through a secured transaction using JPM Coin 
 
 * What domain of the financial industry is the company in?
 
+Blockchain and Cryptocurrencies
+
 * What have been the major trends and innovations of this domain over the last 5-10 years?
 
 * What are the other major companies in this domain?
 
+1. Coinbase Global Inc. (COIN)
+Revenue (TTM): $5.1 billion
+Net Income (TTM): -$1.2 billion
+Market Capitalization (Market Cap): $9.05 billion
+One-Year Trailing Total Return: -84.29%
+Exchange: NASDAQ
+
+2. Canaan Inc. (CAN)
+Revenue (TTM): $947.5 million
+Net Income (TTM): $355.3 million
+Market Cap: $420.9 million
+One-Year Trailing Total Return: -55.4%
+Exchange: NASDAQ
+
+3. Galaxy Digital Holdings Ltd (BRPHF)
+Revenue (TTM): $457 million (As of Sept. 30, 2022)
+Net Income (TTM): -$682.6 million
+Market Cap: $310.4 million
+One-Year Trailing Total Return: -82.9%
+Exchange: OTC Markets
+
+4. Riot Blockchain Inc. (RIOT)
+Revenue (TTM): $289.9 million
+Net Income (TTM): -$386.7 million
+Market Cap: $694.3 million
+One-Year Trailing Total Return: -83.4%
+Exchange: NASDAQ
+
+5. Silvergate Capital Corp. (SI)
+Revenue (TTM): $273.2 million
+Net Income (TTM): $130.7 million
+Market Cap: $592.3 million
+One-Year Trailing Total Return: -86.6%
+Exchange: NYSE
+
+6. Marathon Digital Holdings Inc (MARA)
+Revenue (TTM): $149.6 million
+Net Income (TTM): -$268.5 million
+Market Cap: $551.5 million
+One-Year Trailing Total Return: -87.4%
+Exchange: NASDAQ
 
 ## Results
 
