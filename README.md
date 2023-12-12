@@ -88,12 +88,18 @@ Market Capitalization (Market Cap): $9.05 billion
 One-Year Trailing Total Return: -84.29%
 Exchange: NASDAQ
 
+Coinbase Global (COIN) is a global provider of financial infrastructure, including transaction services, and technology designed for the crypto economy. The company’s platform enables its retail users to invest, spend, save, earn, and use cryptocurrencies. The platform also provides institutions with a deep pool of liquidity for transacting in crypto assets and enables crypto-ecosystem partners to build crypto-based applications as well as securely accept crypto assets as payment.
+
 2. Canaan Inc. (CAN)
 Revenue (TTM): $947.5 million
 Net Income (TTM): $355.3 million
 Market Cap: $420.9 million
 One-Year Trailing Total Return: -55.4%
 Exchange: NASDAQ
+
+Canaan is a China-based provider of high-performance computing solutions. The company is focused on an application-specific integrated circuit (ASIC) high-performance computing chip design, as well as chip research and development, computing equipment production, and software services.
+
+It provides a range of artificial intelligence (AI) services and is involved in the research and development of advanced technology, such as AI chips, AI algorithms, system-on-a-chip (SoC) integration, and more.
 
 3. Galaxy Digital Holdings Ltd (BRPHF)
 Revenue (TTM): $457 million (As of Sept. 30, 2022)
@@ -102,12 +108,16 @@ Market Cap: $310.4 million
 One-Year Trailing Total Return: -82.9%
 Exchange: OTC Markets
 
+Galaxy provides access to the crypto economy as a digital asset and blockchain leader for institutions, startups, and qualified individuals. Galaxy serves the digital economy with financial services such as trading, asset management, investment banking, mining, and ventures.
+
 4. Riot Blockchain Inc. (RIOT)
 Revenue (TTM): $289.9 million
 Net Income (TTM): -$386.7 million
 Market Cap: $694.3 million
 One-Year Trailing Total Return: -83.4%
 Exchange: NASDAQ
+
+Riot Blockchain is a Bitcoin mining company. The company’s mining operations include its facility in Rockdale, TX, which has a total power capacity of 750 MW, with 450 MW currently developed. Whinstone’s facility is believed to be the largest single facility, as measured by developed capacity, in North America for Bitcoin mining.
 
 5. Silvergate Capital Corp. (SI)
 Revenue (TTM): $273.2 million
@@ -116,12 +126,16 @@ Market Cap: $592.3 million
 One-Year Trailing Total Return: -86.6%
 Exchange: NYSE
 
+Silvergate Capital is the parent company of Silvergate Bank, a provider of financial infrastructure solutions and services to participants in the digital currency industry. Silvergate is a Federal Reserve member bank and the leading provider of innovative financial infrastructure solutions and services for the growing digital currency industry.
+
 6. Marathon Digital Holdings Inc (MARA)
 Revenue (TTM): $149.6 million
 Net Income (TTM): -$268.5 million
 Market Cap: $551.5 million
 One-Year Trailing Total Return: -87.4%
 Exchange: NASDAQ
+
+Marathon is a digital asset technology company that mines cryptocurrencies. With a focus on the blockchain ecosystem and the generation of digital assets, Marathon operates a proprietary data center in Montana with a maximum power capacity of 105 Megawatts and co-hosts a facility in North Dakota. In 2022, Marathon is expected to deploy 133,000 miners, generating approximately 13.3 Exahash.
 
 ## Results
 
