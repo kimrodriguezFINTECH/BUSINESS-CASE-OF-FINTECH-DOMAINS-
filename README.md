@@ -1,37 +1,28 @@
 # BUSINESS-CASE-OF-FINTECH-DOMAINS-
 
-## Overview and Origin
-Since 1799, J.P Morgan & Chase Corporation was built on 1,200 predecessor institutions that have come together over the years to form today's company. Many of these predecessor institutions consisted of well-known heritage firms such as, The Chase Manhattan Bank, Bank One, Manufacturers Hanover Trust Co., Chemical Bank, The First National Bank of Chicago, National Bank of Detroit, The Bear Stearns Companies Inc., even the business acquired in the Washington Mutual transaction etc. Each of these firms, in its time, were innovative financial institutions that contributed to the growth of the U.S. and global economies.
+## Early Beginnigns of J.P Morgan Chase Corporation  
 
-Onyx created by J.P. Morgan in 2020, was the first global bank to offer a blockchain-based platform for wholesale payments transactions. Onyx is redirecting the way money, information, and assets are moving around domestically and around the world. Onyx's blockchain-based platform further advances the understanding J.P. Morgan reputable institutional banking by creating a reliable infrastructure and services. Onyx blockchain technology will help solve some of the most compelling banking problems that relate to digital assets, payments, and information sharing within banking. 
+J.P Morgan & Chase Corporation is built on 1,200 predecessor institutions that have come together over the years to form today's company. Many of these predecessor institutions consisted of well-known heritage firms such as, The Chase Manhattan Bank, Bank One, The First National Bank of Chicago, National Bank of Detroit, The Bear Stearns Companies Inc.; even the business acquired in the Washington Mutual transaction, etc. Each of these firms, in its time, were innovative financial institutions that contributed to the growth of the U.S. and global economies. That being so, J.P. Morgan continues to uphold these standards by now offering the JPM Coin, a digital dollar backed by a private version of Etherem Blockchain on Onyx. 
 
-JPM Coin, introduced in 2019, is a permissioned blockchain that serves as a payment rail and deposit account ledger. This blockchain allows clients to transfer US Dollars held on deposit within J.P. Morgan system, to move all funds and payments at any time zone or part of the world. JPM Coin Systems technology has the capability to support advance payment types like DvP (Delivery versus Payment), PvP (Payment versus Payment) and machine-to-machine payments to help solve common hurdles of traditional cross border payments. 
+## JPM Coin & Blockchain
 
-Thus, in simple terms J.P. Morgan designed Onyx to facilitate instantaneous payments using block chain technology to enable round the clock, business to business money movement/commerce by using JPM Coin. In return this provides safe secure transfers around the world. 
+The JPM Coin was introduced back in 2019, as a permissioned blockchain that serves as a payment rail and deposit account ledger. This blockchain allows clients to transfer US Dollars held on deposit within the J.P. Morgan client system. Furthermore, this blockchain system moves all funds or payments to many parts of the world and time zones at any given time. The JPM Coin system has the technological capability to support advance payment types like DvP (Delivery versus Payment), PvP (Payment versus Payment) and machine-to-machine payments to help solve common hurdles of traditional cross border payments.
 
-* Name of company 
+## Onyx & Blockchain
 
-J.P. Morgan Chase & Corporation
--ONYX by J.P.Morgan 
--JPM Coin
+Onyx created by J.P. Morgan in 2020, was the first global bank to offer a blockchain-based platform for wholesale payments transactions. Onyx is redirecting the way money, information, and assets are moving around domestically and around the world with. Onyx's blockchain-based platform further advances J.P. Morgan institutional banking by creating a reliable infrastructure and services, to help solve some of the most compelling banking problems that relate to digital assets, payments, and confidential information sharing within banking. Overall, J.P. Morgan designed Onyx to facilitate instantaneous payments round the clock, and to provide business to business money movement/commerce by using JPM Coin. In return, blockchain provides a more secure transfer when doing thes financial trasactions. 
 
-* When was the company incorporated?
+## Why Blockchain?
 
-J.P. Morgan Chase & Corporation was incorprated on December 31, 2000.
-JPM Coin was introduced in 2019.
-ONYX unit was created in 2020.
+J.P. Morgan Chase & Corporation was founded by J.P Morgan who launched the House of Morgan on 23 Wall street in 1871 and was incorprated on December 31, 2000. With J.P Morgan's reputable background in innovation it comes to no surpise that this idea of using blockchain for collateral settlemments and using JPM Coin as a source of value came to light in the company's lastes finaicla inovations. Not to mention, blockchain allows investors to put down a wider range of assets as collateral and will be able to even use them outside of market operating hours. More over, since JPM Coin functions as a source of value this will let transfers and settlements be available 24/7. 
 
-* Who are the founders of the company?
+* Fundings for Onyx
 
-J.P. Morgan & Co. was founded by J.P. Morgan who launched the House of Morgan on 23 Wall Street in 1871.
+It is hard to say exactly how much funding went into Onyx however down below is a chart of the company's free cashflow over the past 8 years that could of been used to fund this project.  
 
-* How did the idea for the company (or project) come about?
 
-J.P. Morgan is using blockchain for collateral settlemments which will allow investors to put down a wider range of assets as collateral and will be able to even use them outside of market operating hours. Since, JPM Coin functions as a source of value this will let transfers and settlements be available 24/7. 
 
-* How is the company funded? How much funding have they received?
-
-It is predicted that JPM Coin could be handling as much as $10 billion in daily transactions within the next year or two, according to Umar Farooq, whom is head of the bank's Global Head of Financial Institution Payments. As of right now, JPMorgan's  digital token JPM Coin now handles $1 billion worth of transactions daily according to Global Head of Payments Takis Georgakopoulos. 
+As of recently, it is predicted that JPM Coin could be handling as much as $10 billion in daily transactions within the next year or two, according to Umar Farooq, head of the bank's Global Head of Financial Institution Payments. Overall, JPMorgan's digital token JPM Coin now handles $1 billion worth of transactions daily according to Global Head of Payments, Takis Georgakopoulos. 
 
 ## Business Activities:
 * What specific financial problem is the company or project trying to solve? 
