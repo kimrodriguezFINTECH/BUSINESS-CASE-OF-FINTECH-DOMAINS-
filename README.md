@@ -20,7 +20,7 @@ J.P. Morgan Chase & Corporation was founded by J.P Morgan who launched the House
 
 It is hard to say exactly how much funding went into Onyx however down below is a chart of the company's free cashflow over the past 8 years that could of been used to fund this project.  
 
-![CASHFLOW](imagesresources/JPM CASHFLOW)
+![CASHFLOW](images/JPM CASHFLOW.png)
 
 As of recently, it is predicted that JPM Coin could be handling as much as $10 billion in daily transactions within the next year or two, according to Umar Farooq, head of the bank's Global Head of Financial Institution Payments. Overall, JPMorgan's digital token JPM Coin now handles $1 billion worth of transactions daily according to Global Head of Payments, Takis Georgakopoulos. 
 
