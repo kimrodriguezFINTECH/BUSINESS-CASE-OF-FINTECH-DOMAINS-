@@ -1,4 +1,4 @@
-# BUSINESS-CASE-OF-FINTECH-DOMAINS-
+### BUSINESS-CASE-OF-FINTECH-DOMAINS-
 
 ## Early Beginnigns of J.P Morgan Chase Corporation  
 
@@ -16,7 +16,7 @@ Onyx created by J.P. Morgan in 2020, was the first global bank to offer a blockc
 
 J.P. Morgan Chase & Corporation was founded by J.P Morgan who launched the House of Morgan on 23 Wall street in 1871 and was incorprated on December 31, 2000. With J.P Morgan's reputable background in innovation it comes to no surpise that this idea of using blockchain for collateral settlemments and using JPM Coin as a source of value came to light in the company's lastes finaicla inovations. Not to mention, blockchain allows investors to put down a wider range of assets as collateral and will be able to even use them outside of market operating hours. More over, since JPM Coin functions as a source of value this will let transfers and settlements be available 24/7. 
 
-* Fundings for Onyx
+# Fundings for Onyx
 
 It is hard to say exactly how much funding went into Onyx however down below is a chart of the company's free cashflow over the past 8 years that could of been used to fund this project.  
 
@@ -26,11 +26,10 @@ As of recently, it is predicted that JPM Coin could be handling as much as $10 b
 
 ## Business Activities:
 * What specific financial problem is the company or project trying to solve? 
-
-Transfer of assets can take hours or even days for a settlment depending on what financial transaction is being done. There are always constant frictions and risks as well. 
+As mentioned JPM Coin is trying to resolve problems some of the most compelling banking problems that relate to transfer of digital assets, payments, and confidential information sharing within banking. For example transfer of assets can take hours or even days for a settlment to happen depending on what financial transaction is being done. In addition, there are always constant frictions and risks that come with these types of transactions. 
 
 Example 1: 
-Whenever you buy or sell a stock there are two important dates which are the transation date and the settlement date that must be done within a certain amount of time. However, with Blockchain buying and selling stock can be transfered and settleed almost institanous. Thus, by eliminating that setlement time this can reduce or even elimnate counter party risk. 
+Whenever you buy or sell a stock there are two important dates which is the transation date and the settlement date, that must be done within a certain amount of time. However, with Blockchain buying and selling stock can be transfered and settleed almost institanous. With blockhain not considering that time frame in the settlement this can reduce or even elimnate counter party risk. 
 
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
