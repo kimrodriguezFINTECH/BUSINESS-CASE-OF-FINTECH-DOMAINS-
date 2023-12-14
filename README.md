@@ -1,6 +1,6 @@
 ### BUSINESS-CASE-OF-FINTECH-DOMAINS-
 
-## Early Beginnigns of J.P Morgan Chase Corporation  
+## Early Beginnings of J.P Morgan Chase Corporation  
 
 J.P Morgan & Chase Corporation is built on 1,200 predecessor institutions that have come together over the years to form today's company. Many of these predecessor institutions consisted of well-known heritage firms such as, The Chase Manhattan Bank, Bank One, The First National Bank of Chicago, National Bank of Detroit, The Bear Stearns Companies Inc.; even the business acquired in the Washington Mutual transaction, etc. Each of these firms, in its time, were innovative financial institutions that contributed to the growth of the U.S. and global economies. That being so, J.P. Morgan continues to uphold these standards by now offering the JPM Coin, a digital dollar backed by a private version of Ethereum Blockchain on Onyx. 
 
@@ -49,15 +49,15 @@ Net Income (TTM): $130.7 million
 
 "Silvergate Capital is the parent company of Silvergate Bank, a provider of financial infrastructure solutions and services to participants in the digital currency industry. Silvergate is a Federal Reserve member bank and the leading provider of innovative financial infrastructure solutions and services for the growing digital currency industry (Johnston, 2023)."
 
-## Problems & Resolutions: 
+# Problems & Resolutions: 
 
 As mentioned JPM Coin is trying to resolve problems some of the most compelling banking problems that relate to transfer of digital assets, payments, and confidential information sharing within banking. For example, transfer of assets can take hours or even days for a settlement to happen depending on what financial transaction is being done. In addition, there are always constant frictions and risks that come with these types of transactions. 
 
-# Example: 
+## Example: 
 
 Whenever you buy or sell a stock there are two important dates which is the transaction date and the settlement date, that must be done within a certain amount of time. However, with blockchain buying and selling stock can be transferred and settled almost instantaneously. With blockchain not considering that time frame in the settlement this can reduce or even eliminate counter party risk. 
 
-# Solutions that other competitors do not or cannot offer: 
+## Solutions that other competitors do not or cannot offer: 
 
 1. Support domestic and cross-border payments
 2. Corporate clients can make programmable in real-time, multi-currency payments using multi-bank shared ledgers
@@ -67,17 +67,17 @@ Whenever you buy or sell a stock there are two important dates which is the tran
 6. Programmable money capability has the potential to enhance liquidity management for corporate clients through conditional payments governed programmatically by distributed ledger technology
 7. Blockchain security system makes it extremely difficult to manipulate or reverse engineer the software. 
 
-# Example:
+## Example:
 
 Let's say a client may wants to borrow $1.2 million for three hours. For this case Onyx can use smart contracts to automate delivery versus payment at the right times using precise terms so there is no middle or back-office processing; according to Tyrone Lobban, head of Onyx Digital Assets & Blockchain at JP Morgan. Thus, clients can get same day liquidity through a secured transaction using JPM Coin as collateral, rather than having to draw an expensive unsecured line of credit with high interest rates which usually takes about one to multiple business days.
 
-## Targeted Customers for Onyx:
+# Targeted Customers for Onyx:
 
 1. Corporate Banking 
 2. Investment Banking 
 3. Asset/ Wealth Management 
 
-## Technology at JPM Morgan Chase 
+# Technology at JPM Morgan Chase 
 
 Tech Stack List: 
 
@@ -91,9 +91,9 @@ Blockchain technology improves funds transfers between banking institutions glob
 Why Python and Blockchain? (My Opinion)
 Python and Blockchain are most relevent to this case study considering what we have convered thus far, in class.
 
-## Results
+# Results
 
-# Fundings for Onyx
+## Fundings for Onyx
 
 It is hard to say exactly how much funding went into Onyx however down below is a chart of the company's free cashflow over the past 8 years that could of been used to fund this project.  
 
@@ -102,18 +102,18 @@ It is hard to say exactly how much funding went into Onyx however down below is 
 As of recently, it is predicted that JPM Coin could be handling as much as $10 billion in daily transactions within the next year or two, according to Umar Farooq, head of the bank's Global Head of Financial Institution Payments. Overall, JPMorgan's digital token JPM Coin now handles $1 billion worth of transactions daily according to Global Head of Payments, Takis Georgakopoulos. 
 
 
-## Recommendations
+# Recommendations
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 
-# Recommendation #1: Create Onyx for External Users
+## Recommendation #1: Create Onyx for External Users
 
 Benefits: 
 
 1. Possibly increase profits like Glaxy, Riot, and Silvergate whom participate externally which is probably why they are performing better than Onyx.
 2. Branching out to other banks or institutions in the long run can fund alot more projects J.P.M wants to venture into without using their own cashflow because in return these companies will be charged a fee or royalties for using Onyx.
 
-# Technologies for Additional Services:
+## Technologies for Additional Services:
 
 1. Python
 
@@ -127,7 +127,7 @@ Continuing to use Blockchain technology as Onys is using now internally will pro
 
 It is also recommended that J.P.M make a different branch in Onyx solely for external financial transactions so their customers and businesses will not be compromised. 
 
-# Recomendation #2: Create Onyx for Mergers & Aquisitions
+## Recomendation #2: Create Onyx for Mergers & Aquisitions
 
 # Benefits:
 
@@ -135,7 +135,7 @@ It is also recommended that J.P.M make a different branch in Onyx solely for ext
 2. Possibly eliminate discrepencies when evaluating a company.
 3. Possibly eliminate monopolies. 
 
-# Technologies for Additional Services:
+## Technologies for Additional Services:
 
 Some of the same technologies should be used for this type of service since Onyx's technology is working just fine internally.
 
