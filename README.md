@@ -96,9 +96,9 @@ Python and Blockchain are most relevant to this case study considering what we h
 
 ## Fundings for Onyx
 
-It is hard to say exactly how much funding went into Onyx however down below is a chart of the company's free cashflow over the past 8 years that could of been used to fund this project.  
+It is hard to say exactly how much funding went into Onyx however down below is a chart of the company's free cashflow over the past 8 years that could of been used to fund this project. 
 
-![CASHFLOW](images/JPM_CASHFLOW.png)
+<img width="726" alt="JPM CASHFLOW" src="https://github.com/kimrodriguezFINTECH/BUSINESS-CASE-OF-FINTECH-DOMAINS-/assets/152752672/7ad67290-cb07-49d3-80e2-47897c933d78">
 
 As of recently, it is predicted that JPM Coin could be handling as much as $10 billion in daily transactions within the next year or two, according to Umar Farooq, head of the bank's Global Head of Financial Institution Payments. Overall, JPMorgan's digital token JPM Coin now handles $1 billion worth of transactions daily according to Global Head of Payments, Takis Georgakopoulos. 
 
