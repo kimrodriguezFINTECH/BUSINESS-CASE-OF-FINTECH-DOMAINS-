@@ -82,6 +82,7 @@ Let's say a client may wants to borrow $1.2 million for three hours. For this ca
 Tech Stack List: 
 
 1. Python
+
 On October 10, 2023 J.P. Morgan announced the launch of its Securities Services Data Mesh for institutional investors. The securities services will be available through Fusion by J.P. Morgan (Fusion). Investors will be able to retrieve important investment data held by J.P. Morgan’s Custody, Fund Accounting and Middle Office services, using cloud-native channels including REST APIs, Jupyter notebooks and the Snowflake Financial Services Data Cloud. Working side by side with cloud native channels, Fusion makes integrating asset servicing data easier to use at a large scale especially as portfolios and investments form in size and complexity
 
 2. BlockChain 
@@ -103,8 +104,6 @@ As of recently, it is predicted that JPM Coin could be handling as much as $10 b
 
 
 # Recommendations
-
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 
 ## Recommendation #1: Create Onyx for External Users
 
@@ -151,9 +150,12 @@ This will make the transfer of selling/buying/merging a company a easier when it
 The programming language is essential for financial analysis as it offers the ability to collect, store, and analyze financial data, and work with data visualization tools to see if an mergers and aqusition should happen. SQL improves the analysts' ability to manage and analyze excessive amounts of data safely and efficiently. Most importantly SQL databases can generate predictive models and data-driven business decisions that some companies cannot forsee in the present day. 
 
 
+
+
 # REFERENCES 
 
 ## Overview and Origin
+
 https://www.jpmorganchase.com/about/our-history
 
 https://www.jpmorgan.com/onyx/about
@@ -162,6 +164,7 @@ https://www.jpmorgan.com/onyx/coin-system
 
 * When was the company incorporated?
 JPM Coin
+
 https://www.coindesk.com/business/2023/11/10/jpmorgan-adds-programmable-payments-to-jpm-coin/#:~:text=JPMorgan%20introduced%20JPM%20Coin%20in,moves%20every%20day%20in%20total
 
 ONYX
@@ -175,11 +178,13 @@ https://fortune.com/crypto/2023/11/16/jp-morgan-siemens-fedex-blockchain-finance
 https://en.wikipedia.org/wiki/JPMorgan_Chase#:~:text=In%201871%2C%20J.P.%20Morgan%20%26%20Co,creating%20a%20diversified%20holding%20entity.
 
 * How did the idea for the company (or project) come about?
+
 https://www.bloomberg.com/news/articles/2023-11-15/jpmorgan-says-jpm-coin-transactions-may-hit-10-billion-daily?embedded-checkout=true
 
 https://www.youtube.com/watch?v=y3JmJcLl8SE
 
 * How is the company funded? How much funding have they received?
+
 https://www.bloomberg.com/news/articles/2023-11-15/jpmorgan-says-jpm-coin-transactions-may-hit-10-billion-daily?embedded-checkout=true 
 
 https://www.bloomberg.com/news/articles/2023-10-26/jpmorgan-says-jpm-coin-now-handles-1-billion-transactions-daily?leadSource=uverify%20wall
@@ -190,6 +195,7 @@ https://www.macrotrends.net/stocks/charts/JPM/jpmorgan-chase/free-cash-flow#:~:t
 ## Business Activities:
 
 * What specific financial problem is the company or project trying to solve?
+
 https://www.bloomberg.com/news/articles/2023-11-15/jpmorgan-says-jpm-coin-transactions-may-hit-10-billion-daily?embedded-checkout=true
 
 https://www.bloomberg.com/news/articles/2022-05-26/jpmorgan-finds-new-use-for-blockchain-in-collateral-settlement
@@ -219,11 +225,14 @@ https://www.jpmorgan.com/about-us/corporate-news/2023/securities-services-fusion
 ## Landscape:
 
 * What domain of the financial industry is the company in?
+
 https://fortune.com/crypto/2023/11/16/jp-morgan-siemens-fedex-blockchain-finance-jpm-coin/
 
 
 * What are the other major companies in this domain?
+
 https://www.investopedia.com/10-biggest-blockchain-companies-5213784
+
 ## Reccomendations:
 
 https://www.nobledesktop.com/classes-near-me/blog/sql-for-financial-analysis
