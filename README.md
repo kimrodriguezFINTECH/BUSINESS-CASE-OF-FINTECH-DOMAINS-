@@ -26,7 +26,7 @@ Revenue forecast in 2032: USD 6,574.73 million
 
 Onyx by JP Morgan Chase is the private version of Ethereum Blockchain domain. However, companies like Galaxy, Riot, and Silver gate participate externally which is probably why they are preforming better than Onyx. 
 
-## Top 3 Major Companies/Trends in Blockchain
+## Top 3 Major Companies/Trends in Blockchain:
 
 1. Galaxy Digital Holdings Ltd (BRPHF)
 Revenue (TTM): $457 million (As of Sept. 30, 2022)
@@ -77,7 +77,7 @@ Let's say a client may want to borrow $1.2 million for three hours. For this cas
 2. Investment Banking 
 3. Asset/ Wealth Management 
 
-# Technology at JPM Morgan Chase 
+# Technology at JPM Morgan Chase: 
 
 Tech Stack List: 
 
@@ -92,17 +92,17 @@ Blockchain technology improves funds transfers between banking institutions glob
 Why Python and Blockchain? (My Opinion)
 Python and Blockchain are most relevant to this case study considering what we have conversed thus far, in class.
 
-# Results
+# Results:
 
 ## Fundings for Onyx
 
 It is hard to say exactly how much funding went into Onyx however down below is a chart of the company's free cashflow over the past 8 years that could of been used to fund this project.  
 
-![CASHFLOW](images/JPMCASHFLOW.png)
+![CASHFLOW](images/JPM_CASHFLOW.png)
 
 As of recently, it is predicted that JPM Coin could be handling as much as $10 billion in daily transactions within the next year or two, according to Umar Farooq, head of the bank's Global Head of Financial Institution Payments. Overall, JPMorgan's digital token JPM Coin now handles $1 billion worth of transactions daily according to Global Head of Payments, Takis Georgakopoulos. 
 
-# Recommendations
+# Recommendations:
 
 ## Recommendation #1: Create Onyx for External Users
 
