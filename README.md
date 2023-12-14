@@ -24,7 +24,7 @@ Revenue forecast in 2032: USD 6,574.73 million
 
 # Landscape:
 
-Onyx by JP Morgan Chase is the private version of Etherem Blockchain domain. However, companies like Glaxy, Riot, and Silvergate participate externally which is probably why they are preforming better than Onyx. 
+Onyx by JP Morgan Chase is the private version of Ethereum Blockchain domain. However, companies like Galaxy, Riot, and Silver gate participate externally which is probably why they are preforming better than Onyx. 
 
 ## Top 3 Major Companies/Trends in Blockchain
 
@@ -69,7 +69,7 @@ Whenever you buy or sell a stock there are two important dates which is the tran
 
 ## Example:
 
-Let's say a client may wants to borrow $1.2 million for three hours. For this case Onyx can use smart contracts to automate delivery versus payment at the right times using precise terms so there is no middle or back-office processing; according to Tyrone Lobban, head of Onyx Digital Assets & Blockchain at JP Morgan. Thus, clients can get same day liquidity through a secured transaction using JPM Coin as collateral, rather than having to draw an expensive unsecured line of credit with high interest rates which usually takes about one to multiple business days.
+Let's say a client may want to borrow $1.2 million for three hours. For this case Onyx can use smart contracts to automate delivery versus payment at the right times using precise terms so there is no middle or back-office processing; according to Tyrone Lobban, head of Onyx Digital Assets & Blockchain at JP Morgan. Thus, clients can get same day liquidity through a secured transaction using JPM Coin as collateral, rather than having to draw an expensive unsecured line of credit with high interest rates which usually takes about one to multiple business days.
 
 # Targeted Customers for Onyx:
 
@@ -85,12 +85,12 @@ Tech Stack List:
 
 On October 10, 2023 J.P. Morgan announced the launch of its Securities Services Data Mesh for institutional investors. The securities services will be available through Fusion by J.P. Morgan (Fusion). Investors will be able to retrieve important investment data held by J.P. Morgan’s Custody, Fund Accounting and Middle Office services, using cloud-native channels including REST APIs, Jupyter notebooks and the Snowflake Financial Services Data Cloud. Working side by side with cloud native channels, Fusion makes integrating asset servicing data easier to use at a large scale especially as portfolios and investments form in size and complexity
 
-2. BlockChain 
+2. Blockchain 
 
 Blockchain technology improves funds transfers between banking institutions globally, including payments originating from Taiwan banks to beneficiary banks in other markets. How they will implement this is by using a new solution called Confirm that helps reduce the number of rejected or returned transactions caused by mismatched payment details, lowering costs for both the sending, and receiving banks. Banking institutions will be able to request confirmation of the beneficiary account information and receive responses directly from other participating banks in almost no time. Once the information is validated, the payment may be sent through J.P. Morgan’s global clearing solution Pay Direct to route the payment in the most efficient manner. 
 
 Why Python and Blockchain? (My Opinion)
-Python and Blockchain are most relevent to this case study considering what we have convered thus far, in class.
+Python and Blockchain are most relevant to this case study considering what we have conversed thus far, in class.
 
 # Results
 
@@ -102,36 +102,35 @@ It is hard to say exactly how much funding went into Onyx however down below is 
 
 As of recently, it is predicted that JPM Coin could be handling as much as $10 billion in daily transactions within the next year or two, according to Umar Farooq, head of the bank's Global Head of Financial Institution Payments. Overall, JPMorgan's digital token JPM Coin now handles $1 billion worth of transactions daily according to Global Head of Payments, Takis Georgakopoulos. 
 
-
 # Recommendations
 
 ## Recommendation #1: Create Onyx for External Users
 
 ## Benefits: 
 
-1. Possibly increase profits like Glaxy, Riot, and Silvergate whom participate externally which is probably why they are performing better than Onyx.
-2. Branching out to other banks or institutions in the long run can fund alot more projects J.P.M wants to venture into without using their own cashflow because in return these companies will be charged a fee or royalties for using Onyx.
+1. Possibly increase profits like Galaxy, Riot, and Silvergate whom participate externally which is probably why they are performing better than Onyx.
+2. Branching out to other banks or institutions in the long run can fund a lot more projects J.P.M wants to venture into without using their own cashflow because in return these companies will be charged a fee or royalties for using Onyx.
 
 ## Technologies for Additional Services:
 
 1. Python
 
-Python will be able to create multiple outcomes for multiple markets in the world not just in the banking business. Python can make create a snipet for other companies prior to them venturing into a possible deal with other companies or markets. Lastly, no matter what industry outcomes can be generated and updated even as new industries arrive in the market. 
+Python will be able to create multiple outcomes for multiple markets in the world not just in the banking business. Python can make create a snippet for other companies prior to them venturing into a possible deal with other companies or markets. Lastly, no matter what industry outcomes can be generated and updated even as new industries arrive in the market. 
 
-2. BlockChain 
+2. Blockchain 
 
-Continuing to use Blockchain technology as Onys is using now internally will provide the same results as mentioned just as a larger scale into mutiple markets. 
+Continuing to use Blockchain technology as Onyx is using now internally will provide the same results as mentioned just as a larger scale into multiple markets. 
 
 4. Extension of Onyx
 
 It is also recommended that J.P.M make a different branch in Onyx solely for external financial transactions so their customers and businesses will not be compromised. 
 
-## Recomendation #2: Create Onyx for Mergers & Aquisitions
+## Recommendation #2: Create Onyx for Mergers & Acquisitions
 
 ## Benefits:
 
-1. Facilite even more business in selling/buying/merging businesses. 
-2. Possibly eliminate discrepencies when evaluating a company.
+1. Facilitate even more business in selling/buying/merging businesses. 
+2. Possibly eliminate discrepancies when evaluating a company.
 3. Possibly eliminate monopolies. 
 
 ## Technologies for Additional Services:
@@ -140,19 +139,20 @@ Some of the same technologies should be used for this type of service since Onyx
 
 1. Python
 
- Python will provide mutiple outcomes for the kinds of businesses that would be a good fit to merge together. Further more, create mutiple outcomes whether one company should sell or not proceed with a business opportunity. Also being able to identify early on whether a company merging together will cause a monopoly which will help avoid federal law suits. 
+ Python will provide multiple outcomes for the kinds of businesses that would be a good fit to merge together. Furthermore, create multiple outcomes whether one company should sell or not proceed with a business opportunity. Also being able to identify early on whether a company merging together will cause a monopoly which will help avoid federal lawsuits. 
 
-2. BlockChain 
+2. Blockchain 
 
-This will make the transfer of selling/buying/merging a company a easier when it comes to the financial aspects or being able to share updates at anytime. Most importantly, protect the company from any losses in which some cases a company might of lied in their financial statements when it came to evaluating the company, for example. 
+This will make the transfer of selling/buying/merging a company easier when it comes to the financial aspects or being able to share updates at any time. Most importantly, protect the company from any losses in which some cases a company might have lied in their financial statements when it came to evaluating the company, for example. 
 
 3. SQL
-The programming language is essential for financial analysis as it offers the ability to collect, store, and analyze financial data, and work with data visualization tools to see if an mergers and aqusition should happen. SQL improves the analysts' ability to manage and analyze excessive amounts of data safely and efficiently. Most importantly SQL databases can generate predictive models and data-driven business decisions that some companies cannot forsee in the present day. 
+The programming language is essential for financial analysis as it offers the ability to collect, store, and analyze financial data, and work with data visualization tools to see if a merger or acquisition should happen. SQL improves the analysts' ability to manage and analyze excessive amounts of data safely and efficiently. Most importantly SQL databases can generate predictive models and data-driven business decisions that some companies cannot foresee in the present day. 
+ 
 
 
 
 
-# REFERENCES 
+# REFERENCES: 
 
 ## Overview and Origin
 
