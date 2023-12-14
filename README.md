@@ -1,14 +1,14 @@
 ### BUSINESS-CASE-OF-FINTECH-DOMAINS-
 
-## Early Beginnings of J.P Morgan Chase Corporation  
+# Early Beginnings of J.P Morgan Chase Corporation  
 
 J.P Morgan & Chase Corporation is built on 1,200 predecessor institutions that have come together over the years to form today's company. Many of these predecessor institutions consisted of well-known heritage firms such as, The Chase Manhattan Bank, Bank One, The First National Bank of Chicago, National Bank of Detroit, The Bear Stearns Companies Inc.; even the business acquired in the Washington Mutual transaction, etc. Each of these firms, in its time, were innovative financial institutions that contributed to the growth of the U.S. and global economies. That being so, J.P. Morgan continues to uphold these standards by now offering the JPM Coin, a digital dollar backed by a private version of Ethereum Blockchain on Onyx. 
 
-## JPM Coin & Blockchain
+# JPM Coin & Blockchain
 
 The JPM Coin was introduced back in 2019, as a permissioned blockchain that serves as a payment rail and deposit account ledger. This blockchain allows clients to transfer US Dollars held on deposit within the J.P. Morgan client system. Furthermore, this blockchain system moves all funds or payments to many parts of the world and time zones at any given time. The JPM Coin system has the technological capability to support advance payment types like DvP (Delivery versus Payment), PvP (Payment versus Payment) and machine-to-machine payments to help solve common hurdles of traditional cross border payments.
 
-## Onyx & Blockchain
+# Onyx & Blockchain
 
 Onyx created by J.P. Morgan in 2020, was the first global bank to offer a blockchain-based platform for wholesale payments transactions. Onyx is redirecting the way money, information, and assets are moving around domestically and around the world with. Onyx's blockchain-based platform further advances J.P. Morgan institutional banking by creating a reliable infrastructure and services, to help solve some of the most compelling banking problems that relate to digital assets, payments, and confidential information sharing within banking. Overall, J.P. Morgan designed Onyx to facilitate instantaneous payments round the clock, and to provide business to business money movement/commerce by using JPM Coin. In return, blockchain provides a more secure transfer when doing these financial transactions. 
 
@@ -16,13 +16,13 @@ Onyx created by J.P. Morgan in 2020, was the first global bank to offer a blockc
 
 J.P. Morgan Chase & Corporation was founded by J.P Morgan who launched the House of Morgan on 23 Wall Street in 1871 and was incorporated on December 31, 2000. With J.P Morgan's reputable background in innovation it comes to no surprise that this idea of using blockchain for collateral settlements and using JPM Coin as a source of value came to light in the company's latest financial innovations. Not to mention, blockchain allows investors to put down a wider range of assets as collateral and will be able to even use them outside of market operating hours. Moreover, since JPM Coin functions as a source of value this will let transfers and settlements be available 24/7. Most importantly, blockchain data base is extremely difficult to manipulate or reverse engineer, which now and days this kind of technology leaves a lot of companies vulnerable to cyber-attacks.  
 
-## Market Size of Digital Coin: 
+# Market Size of Digital Coin: 
 
 The market size for digital coin based on Cryptocurrency/Coin based market is:
 Market size value in 2023: USD 2,444.77 million
 Revenue forecast in 2032: USD 6,574.73 million
 
-## Landscape:
+# Landscape:
 
 Onyx by JP Morgan Chase is the private version of Etherem Blockchain domain. However, companies like Glaxy, Riot, and Silvergate participate externally which is probably why they are preforming better than Onyx. 
 
@@ -97,7 +97,7 @@ Python and Blockchain are most relevent to this case study considering what we h
 
 It is hard to say exactly how much funding went into Onyx however down below is a chart of the company's free cashflow over the past 8 years that could of been used to fund this project.  
 
-![CASHFLOW](images/JPM CASHFLOW.png)
+![CASHFLOW](images/JPMCASHFLOW.png)
 
 As of recently, it is predicted that JPM Coin could be handling as much as $10 billion in daily transactions within the next year or two, according to Umar Farooq, head of the bank's Global Head of Financial Institution Payments. Overall, JPMorgan's digital token JPM Coin now handles $1 billion worth of transactions daily according to Global Head of Payments, Takis Georgakopoulos. 
 
@@ -108,7 +108,7 @@ As of recently, it is predicted that JPM Coin could be handling as much as $10 b
 
 ## Recommendation #1: Create Onyx for External Users
 
-Benefits: 
+## Benefits: 
 
 1. Possibly increase profits like Glaxy, Riot, and Silvergate whom participate externally which is probably why they are performing better than Onyx.
 2. Branching out to other banks or institutions in the long run can fund alot more projects J.P.M wants to venture into without using their own cashflow because in return these companies will be charged a fee or royalties for using Onyx.
@@ -129,7 +129,7 @@ It is also recommended that J.P.M make a different branch in Onyx solely for ext
 
 ## Recomendation #2: Create Onyx for Mergers & Aquisitions
 
-# Benefits:
+## Benefits:
 
 1. Facilite even more business in selling/buying/merging businesses. 
 2. Possibly eliminate discrepencies when evaluating a company.
@@ -149,3 +149,81 @@ This will make the transfer of selling/buying/merging a company a easier when it
 
 3. SQL
 The programming language is essential for financial analysis as it offers the ability to collect, store, and analyze financial data, and work with data visualization tools to see if an mergers and aqusition should happen. SQL improves the analysts' ability to manage and analyze excessive amounts of data safely and efficiently. Most importantly SQL databases can generate predictive models and data-driven business decisions that some companies cannot forsee in the present day. 
+
+
+# REFERENCES 
+
+## Overview and Origin
+https://www.jpmorganchase.com/about/our-history
+
+https://www.jpmorgan.com/onyx/about
+
+https://www.jpmorgan.com/onyx/coin-system
+
+* When was the company incorporated?
+JPM Coin
+https://www.coindesk.com/business/2023/11/10/jpmorgan-adds-programmable-payments-to-jpm-coin/#:~:text=JPMorgan%20introduced%20JPM%20Coin%20in,moves%20every%20day%20in%20total
+
+ONYX
+https://www.theinformation.com/articles/jpmorgans-blockchain-business-onyx-searches-for-its-identity-and-revenue
+
+https://fortune.com/crypto/2023/11/16/jp-morgan-siemens-fedex-blockchain-finance-jpm-coin/
+
+
+* Who are the founders of the company?
+
+https://en.wikipedia.org/wiki/JPMorgan_Chase#:~:text=In%201871%2C%20J.P.%20Morgan%20%26%20Co,creating%20a%20diversified%20holding%20entity.
+
+* How did the idea for the company (or project) come about?
+https://www.bloomberg.com/news/articles/2023-11-15/jpmorgan-says-jpm-coin-transactions-may-hit-10-billion-daily?embedded-checkout=true
+
+https://www.youtube.com/watch?v=y3JmJcLl8SE
+
+* How is the company funded? How much funding have they received?
+https://www.bloomberg.com/news/articles/2023-11-15/jpmorgan-says-jpm-coin-transactions-may-hit-10-billion-daily?embedded-checkout=true 
+
+https://www.bloomberg.com/news/articles/2023-10-26/jpmorgan-says-jpm-coin-now-handles-1-billion-transactions-daily?leadSource=uverify%20wall
+
+https://www.macrotrends.net/stocks/charts/JPM/jpmorgan-chase/free-cash-flow#:~:text=JPMorgan%20Chase%20annual%20free%20cash,a%202052.83%25%20decline%20from%202019.
+
+
+## Business Activities:
+
+* What specific financial problem is the company or project trying to solve?
+https://www.bloomberg.com/news/articles/2023-11-15/jpmorgan-says-jpm-coin-transactions-may-hit-10-billion-daily?embedded-checkout=true
+
+https://www.bloomberg.com/news/articles/2022-05-26/jpmorgan-finds-new-use-for-blockchain-in-collateral-settlement
+
+
+https://www.youtube.com/watch?v=ayVBU-KgHbc
+
+
+* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
+What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+
+https://www.marketsmedia.com/jp-morgans-onyx-digital-assets-processes-up-to-2bn-per-day/
+
+
+https://www.polarismarketresearch.com/industry-analysis/cryptocurrency-market
+
+* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+
+https://stackoverflow.com/jobs/companies/jpmorgan-chase-co
+
+https://www.jpmorgan.com/technology?source=cib_pa_gd_techtrendstrends0919
+https://www.jpmorgan.com/about-us/corporate-news/2021/jpmorgan-uses-blockchain-technology-to-help-improve-money-transfers
+https://www.jpmorgan.com/about-us/corporate-news/2023/securities-services-fusion-data-mesh
+
+
+
+## Landscape:
+
+* What domain of the financial industry is the company in?
+https://fortune.com/crypto/2023/11/16/jp-morgan-siemens-fedex-blockchain-finance-jpm-coin/
+
+
+* What are the other major companies in this domain?
+https://www.investopedia.com/10-biggest-blockchain-companies-5213784
+## Reccomendations:
+
+https://www.nobledesktop.com/classes-near-me/blog/sql-for-financial-analysis
